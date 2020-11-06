@@ -99,3 +99,14 @@
             "footer";
         }
     }
+    .nav{
+        padding: 10px 30px;
+    }
+    .nav{
+        display: block;
+        color: whitesmoke;
+        margin: 0px 0px;
+        font-size: 10px;
+        cursor: pointer;
+        position: relative;
+    }
